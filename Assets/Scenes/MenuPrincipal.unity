@@ -903,6 +903,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: CajasCuadradas
       objectReference: {fileID: 0}
+    - target: {fileID: 5768587349772560504, guid: ee442ac474091794da94aa49819b6d55,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5768587350176827723, guid: ee442ac474091794da94aa49819b6d55,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ee442ac474091794da94aa49819b6d55, type: 3}
 --- !u!1001 &7918712267544304320
@@ -981,6 +991,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 8251969713165614857, guid: 6b3b124ad9778204ea026912db8e693a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8251969713505200793, guid: 6b3b124ad9778204ea026912db8e693a,
         type: 3}
       propertyPath: m_Name
@@ -1090,6 +1105,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -12.314
+      objectReference: {fileID: 0}
+    - target: {fileID: 8251969714171132114, guid: 6b3b124ad9778204ea026912db8e693a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8251969714171132124, guid: 6b3b124ad9778204ea026912db8e693a,
         type: 3}
